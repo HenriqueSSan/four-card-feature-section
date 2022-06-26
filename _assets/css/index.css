@@ -97,16 +97,16 @@ ul {
 }
 
 .header__presentation-subtitle {
+  margin-bottom: 0;
   font-size: var(--h2-font-size);
   font-weight: 200;
-  margin-bottom: 0;
 }
 
 .header__presentation-title {
+  margin-bottom: 1.15rem;
   font-size: var(--h3-font-size);
   font-weight: 700;
   letter-spacing: 2px;
-  margin-bottom: 1.15rem;
   color: var(--VeryDark-Blue);
 }
 
@@ -167,25 +167,25 @@ ul {
   width: 100%;
   height: auto;
   padding: 30px;
-  background-color: var(--Very-Light-Gray);
   border-radius: 7px;
   box-shadow: 0px 8px 12px rgba(0, 0, 0, .3);
+  background-color: var(--Very-Light-Gray);
   transition: .3s ease;
 }
 
 .cards__container {
-  width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 32px;
   justify-content: center;
+  gap: 32px;
+  width: 100%;
 }
 
 .card__container {
   display: flex;
   flex-direction: column;
-  width: 100%;
   gap: 16px;
+  width: 100%;
 }
 
 
