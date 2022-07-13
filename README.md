@@ -1,74 +1,119 @@
-# Frontend Mentor - Four card feature section solution
+# Solução de seção de recursos de quatro cartões
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Uma seção que tem quatro cartões animados de forma responsive e intuitiva.
 
-## Table of contents
+## Linguagens
 
-- [Frontend Mentor - Four card feature section solution](#frontend-mentor---four-card-feature-section-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
+|Linguagens       |README                         |
+|-----------------|-------------------------------|
+|English          |[LINK](lll)                    |
+|Portuguese Brazil|[LINK](./README_pt-br.md)      |
 
-## Overview
+## Tabela de conteúdos
 
-### The challenge
+|Conteúdos                                                               |Status|
+|------------------------------------------------------------------------|------|
+|[👀 Visão Geral 👀](#-visão-geral)                                      |OK    |
+|[🎯 Desafios 🎯](#-o-desafio)                                           |OK    |
+|[📽️ Captura de Tela 📽️](#-captura-de-tela)                              |OK    |
+|[🧪 Links para Demos 🧪](#-links)                                       |OK    |
+|[👟 Meu Processo 👟](#-meu-processo)                                    |OK    |
+|[📖 O que aprendi 📖](#-o-que-aprendi)                                  |OK    |
+|[🏗️ Desenvolvido com 🏗️](#-desenvolvido-com-as-tecnologias)             |OK    |
+|[🏭 Desenvolvido continuo 🏭](#-desenvolvimento-continuo)               |OK    |
+|📦 Recursos 📦                                                          |NOT   |
+|[✍️ Autor ✍️](#-autor)                                                    |OK    |
+|[📞 Contato 📞](#-contato)                                              |OK    |
+|[🎊 Agradecimentos🎊](#-agradecimentos)                                 |OK    |
+|                                                                        |      |
 
-Users should be able to:
+## 👀 Visão Geral
 
-- View the optimal layout for the site depending on their device's screen size
+### 🎯 O desafio
 
-### Screenshot
+O que os usuarios devem fazer:
 
-![Image](./screenshot.png)
+- [x] Visualize o layout ideal para o site, dependendo do tamanho da tela do dispositivo
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+#### Desafio Dev
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
+- [x] O layout deve ser responsivo
+- [x] Utilizar tags semanticas
+- [x] Escrever com uma arquitetura CSS ou mais.
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+[<<< TOP](#tabela-de-conteúdos)
 
-### Links
+------------------------------------------------------------------
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+### 📽 Captura de Tela
 
-## My process
+![Image](./_design/desktop-design.jpg)
 
-### Built with
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+### 🧪 Links
+
+- URL da solução: [LINK](https://four-card-feature-section-rho-smoky.vercel.app/)
+- Demostrativo da solução: [LINK](https://four-card-feature-section-rho-smoky.vercel.app/)
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+## 👟 Meu processo
+
+### 🏗 Desenvolvido com as tecnologias
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- BEM CSS methodology
 
-### What I learned
+[<<< TOP](#tabela-de-conteúdos)
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+------------------------------------------------------------------
 
-To see how you can add code snippets, see below:
+### 📖 O que aprendi
 
-### Continued development
+Usei meus conhecimentos aprendidos nas Instituições de Ensino, para criar este projeto. O aprendizado deles me ajudou a entender o que é o frontend, Aprendi a criar animações de eventos e Com a arquitetura BEM utilizada no projeto, eu consegui criar um site responsivo e funcional.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+[<<< TOP](#tabela-de-conteúdos)
 
-### Useful resources
+------------------------------------------------------------------
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+### 🏭 Desenvolvimento Continuo
 
-## Author
+Pretendo aprender mais sobre a arquitetura BEM, para criar um site responsivo e funcional. No momento venho estudando cada vez mais e melhorando meus conhecimentos de programação em javascript. Quero aprender sobre mais metodologias ando desenvolvendo projetos com CUBE CSS por tem gostado muito da sua estrutura.
 
-- Frontend Mentor - [@HenriqueSSan](https://www.frontendmentor.io/profile/HenriqueSSan)
+[<<< TOP](#tabela-de-conteúdos)
 
-## Acknowledgments
+------------------------------------------------------------------
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+## ✍ Autor
+
+- GitHub - [Henrique Santos Santana](https://github.com/HenriqueSSan/)
+- Linkedin - [Henrique Santos Santana](https://linkedin.com/in/henrique-santos-santana)
+- Discord - **HenriqueSSan#5066**
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+## 📞 Contato
+
+- Email: [hsstudentwork@gmail.com](https://mail.to:hsstudentwork@gmail.com)
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+## 🎊 Agradecimentos
+
+Meus agradecimentos a minha família, amigos e amigas que me apoiaram durante meu desenvolvimento.
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
